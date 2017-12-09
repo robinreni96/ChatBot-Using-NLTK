@@ -8,6 +8,11 @@ The name of the ChatBot is PyBot because I love to do anything with python and m
 + [numpy](http://www.numpy.org/)
 + [pandas](http://pandas.pydata.org/)
 
+## LINK FOR TECHCRUNCH CSV FILE ##
+
+https://mega.nz/#!L8ghkQRT!peinMO5Rtc8tSnjz3FGWVbRF7jr2dva8yqSFYuHblAI
+
+
 ## Files and Components ##
 
 
