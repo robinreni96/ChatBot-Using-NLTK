@@ -36,6 +36,7 @@ In summary, for a new install, the following steps are required:
 This is sample conversation between me and the bot.Initially I have to train with base commands and then it learn from me.When ask the question next time it replies me with answer.The main feature is we can ask blog query which it fetches from database and reply us with that.
 
 # Configuring Database #
+```
 Configuring Tables for database configuration: 
         Server: localhost 
         DB-User: botuser1 
@@ -52,8 +53,10 @@ DROP TABLE IF EXISTS sentences
 CREATE TABLE sentences (hashid VARCHAR(16) COLLATE utf8_general_ci , sentence VARCHAR(768) COLLATE utf8_general_ci , result VARCHAR(768) COLLATE utf8_general_ci ) 
 
 Done.
+```
 
-## TRAIN - TO TRAIN THE BOT ##   ## SEARCH - TO SEARCH THE ANSWER BY THE BOT ITSELF ##
+# TRAIN - TO TRAIN THE BOT #
+# SEARCH - TO SEARCH THE ANSWER BY THE BOT ITSELF #
 # CHATTING WITH BOT #
 ```
 BOT ONLINE...
