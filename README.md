@@ -55,6 +55,7 @@ Done.
 
 ## TRAIN - TO TRAIN THE BOT ##   ## SEARCH - TO SEARCH THE ANSWER BY THE BOT ITSELF ##
 # CHATTING WITH BOT #
+```
 BOT ONLINE...
 Connecting to database...
 ...connected
@@ -109,5 +110,5 @@ BOT>>  1393887
 BOT>> Content Displayed
 >>> exit
 BOT>> Thankyou For Using Me
-
+```
 These are the sample commands for the bot .You try your own commands.
