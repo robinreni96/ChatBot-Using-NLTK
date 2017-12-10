@@ -76,7 +76,7 @@ BOT>> Please  enter the answer to train me
 BOT>>  Thankyou For Training Me
 >>>Hai How are you?
 BOT>>  I am fine what about you?
-Show me the url of the post 1401293
+>>>Show me the url of the post 1401293
 BOT>> TRAIN OR SEARCH
 >>>search
 BOT>>  https://techcrunch.com/2016/10/13/soylent-bars-recalled-after-some-customers-get-sick/
