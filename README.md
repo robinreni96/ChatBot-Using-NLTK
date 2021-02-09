@@ -120,3 +120,7 @@ BOT>> Content Displayed
 BOT>> Thankyou For Using Me
 ```
 These are the sample commands for the bot .You try your own commands.
+
+<a href="https://www.buymeacoffee.com/robinreni96" target="_blank"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300"></a>
+
+Copyright © 2021 Robin Reni. All rights reserved
